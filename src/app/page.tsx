@@ -1,5 +1,3 @@
-import styles from './page.module.css';
-
 export default function Home() {
-  return <main className={styles.main}>Next.js + RTK</main>;
+  return <div>Next.js + RTK</div>;
 }
